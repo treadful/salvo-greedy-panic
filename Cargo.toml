@@ -1,0 +1,9 @@
+[package]
+name = "salvo-greedy-bug"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+regex = "1.11.2"
+salvo = "0.93.0"
+tokio = "1"
